@@ -46,7 +46,7 @@ p{margin:14px 0;max-width:70ch}
 .crumbs a:hover{color:var(--amber)}
 
 .strip{border-bottom:1px solid var(--line);background:var(--ink2)}
-.striprow{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:6px 34px;padding-top:26px;padding-bottom:26px}
+.striprow{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:14px 34px;padding-top:26px;padding-bottom:26px}
 .striprow p{margin:0;font:15px/1.6 var(--sans);color:var(--cream);max-width:none}
 .k{display:inline-block;font:700 10.5px/1 var(--sans);letter-spacing:.2em;text-transform:uppercase;color:var(--brass);border:1px solid var(--line);padding:5px 8px;margin-right:10px;vertical-align:1px}
 
