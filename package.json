@@ -1,0 +1,8 @@
+{
+  "name": "the-plain-bar",
+  "version": "1.0.0",
+  "description": "The Plain Bar — new bar inside Longview Mall, 3500 McCann Rd STE H07B, Longview TX (static site + node form relay)",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
